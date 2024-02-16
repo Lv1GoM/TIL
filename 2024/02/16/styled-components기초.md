@@ -1,4 +1,4 @@
-# Styled Comopnent
+Styled Comopnent
 
 ## `styled-components`라이브러리에서 주로 사용되는 항목
 
